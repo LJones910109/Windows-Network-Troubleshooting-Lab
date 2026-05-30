@@ -1,8 +1,9 @@
-# 🖥️ Windows Network Troubleshooting Lab
+### 🖥️ Windows Network Troubleshooting
+**[View Full Lab → Windows-Network-Troubleshooting-Lab](https://github.com/LJones910109/Windows-Network-Troubleshooting-Lab)**
 
-## Objective
-Document and demonstrate common Windows networking commands used in 
-real IT support scenarios to diagnose and resolve connectivity issues.
+Documented common Windows networking commands and real IT support 
+troubleshooting scenarios including connectivity issues, DNS problems, 
+and slow network performance.
 
 ---
 
