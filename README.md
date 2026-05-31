@@ -50,6 +50,7 @@ Common use cases:
 - Test internet connectivity
 - Measure latency and packet loss
 - Isolate where a connection is failing
+<img width="579" height="478" alt="Screenshot 2026-05-31 at 2 02 23 PM" src="https://github.com/user-attachments/assets/75d695b0-23b8-4037-8e86-a42d8d1d7e60" />
 
 ---
 
@@ -64,7 +65,8 @@ Common use cases:
 - Diagnose slow connections
 - Map the path between two hosts
 - Identify routing issues
-
+<img width="571" height="615" alt="Screenshot 2026-05-31 at 2 02 44 PM" src="https://github.com/user-attachments/assets/7ab4b4c2-87c1-48a9-89e9-691278e97bc2" />
+  
 ---
 
 ### 4. netstat
@@ -94,6 +96,8 @@ Common use cases:
 - Troubleshoot website not loading issues
 - Check which DNS server is being used
 - Resolve domain to IP address
+<img width="449" height="182" alt="Screenshot 2026-05-31 at 2 03 02 PM" src="https://github.com/user-attachments/assets/ced21011-7e1c-4500-ae37-8fc9d9159ddb" />
+
 
 ---
 
@@ -108,6 +112,7 @@ Common use cases:
 - Troubleshoot layer 2 connectivity issues
 - Detect ARP spoofing attempts
 - Verify network device communication
+<img width="582" height="220" alt="Screenshot 2026-05-31 at 2 03 23 PM" src="https://github.com/user-attachments/assets/e156d60c-bac6-4293-a286-ff78a3ef19bd" />
 
 ---
 
@@ -124,6 +129,7 @@ Common use cases:
 - View and manage wireless profiles
 - Configure network interfaces
 - Diagnose advanced connectivity issues
+<img width="677" height="354" alt="Screenshot 2026-05-31 at 2 08 27 PM" src="https://github.com/user-attachments/assets/00c56bf6-bd93-47ad-b4c6-df1bdafc0c0b" />
 
 ---
 
