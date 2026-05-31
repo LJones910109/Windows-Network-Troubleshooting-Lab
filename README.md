@@ -33,6 +33,7 @@ Sample output fields:
 - Subnet Mask: 255.255.255.0
 - Default Gateway: 192.168.1.1
 - DNS Servers: 8.8.8.8
+<img width="775" height="598" alt="Screenshot 2026-05-31 at 2 01 42 PM" src="https://github.com/user-attachments/assets/c44f3540-d0fe-4c20-88be-0c15309ff8da" />
 
 ---
 
