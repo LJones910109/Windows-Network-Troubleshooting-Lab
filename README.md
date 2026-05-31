@@ -41,9 +41,9 @@ Sample output fields:
 Tests connectivity between two hosts on a network.
 
 Commands used:
-- ping 192.168.1.1 (test gateway)
+- ping 8.8.8.8 (test gateway)
 - ping google.com (test internet connectivity)
-- ping -t 192.168.1.1 (continuous ping)
+- ping -t 8.8.8.8 (continuous ping)
 
 Common use cases:
 - Verify host is reachable
